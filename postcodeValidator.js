@@ -4,7 +4,7 @@
 // S = space
 // N = number
 
-let postcode = "nw3 7st";
+let postcode = "sk3 0uw";
 let res = [];
 let validPatterns = [
   "LLNLSNLL",
